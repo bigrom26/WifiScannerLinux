@@ -35,7 +35,7 @@ sudo apt-get install qtcreator qt5-default qtdeclarative5-dev
 ## Configuring
 ```./configure.sh```
 
-This script will get the default wireless adapter name and saves it to ```MeerkatWifiScanner.config```.
+This script will get the default wireless adapter name and saves it to ```MeerkatWifiScanner.conf```.
 The Wifi Scanner app reads this config file to determine which Wireless Adapter needs to be used.
 This script also calls ```xhost``` to ensure that the app can be run as root.
 
