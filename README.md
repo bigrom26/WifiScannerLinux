@@ -2,11 +2,12 @@
 
 ![Wifi Scanner](wifiscanner.png?raw=true "Wifi Scanner")
 
+Wifi Scanner App for Linux, using Qt (https://www.qt.io/) and wifi-scan library (https://github.com/bmegli/wifi-scan).
+Inspired by the Analog Clock example app of Qt (http://doc.qt.io/qt-5/qtwidgets-widgets-analogclock-example.html).
 
-Wifi Scanner App for Linux, using Qt (https://www.qt.io/) and wifi-scan library (https://github.com/bmegli/wifi-scan)
-
-The Wifi Scanner App is built for linux, and it shows a circle shaped window with the surrounding access point names.
+The Wifi Scanner App is built under Linux, and it shows a circle shaped window with the surrounding access point names.
 The size of the arc in the circle and the darkness of the color indicates the signal strength of the Wifi AP.
+It was built and tested on Ubuntu 17.10 (artful). Qt version 5.9.1, QMake version 3.1, g++ version 7.2.0 (Ubuntu 7.2.0-8ubuntu3.2).
 
 ## Building
 The build script will run ```qmake``` to generate the ```Makefile``` and the run ```make``` to build the app:
