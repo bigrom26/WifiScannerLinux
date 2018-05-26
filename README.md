@@ -27,6 +27,11 @@ If you don't have ```libmnl``` in your system, try the following:
 sudo apt-get update && sudo apt-get install build-essential libmnl0 libmnl-dev
 ```
 
+The app requires Qt as well, which can be installed with:
+```
+sudo apt-get install qtcreator qtdeclarative5-dev
+```
+
 ## Configuring
 ```./configure.sh```
 
