@@ -1,4 +1,8 @@
 # Wifi Scanner App for Linux
+
+![Wifi Scanner](wifiscanner.png?raw=true "Wifi Scanner")
+
+
 Wifi Scanner App for Linux, using Qt (https://www.qt.io/) and wifi-scan library (https://github.com/bmegli/wifi-scan)
 
 The Wifi Scanner App is built for linux, and it shows a circle shaped window with the surrounding access point names.
