@@ -35,5 +35,5 @@ This script also calls ```xhost``` to ensure that the app can be run as root.
 The Wifi Scanner app will run as root. This is needed to be able to query the list of AP's.
 
 ## License
-This Wifi Scanner App has MIT License.
-The Wifi Scanner library which is built in the app, has Mozilla Public License 2.0 (https://github.com/bmegli/wifi-scan/blob/master/LICENSE)
+This Wifi Scanner App has MIT License (https://github.com/nlharri/WifiScannerLinux/blob/master/LICENSE).
+The Wifi Scanner library which is built in the app, has Mozilla Public License 2.0 (https://github.com/bmegli/wifi-scan/blob/master/LICENSE).
